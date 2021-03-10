@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>illo-social-mail</title>
+    <defs>
+        <linearGradient x1="24.742862%" y1="0%" x2="80.4556554%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#405ADD" offset="0%"></stop>
+            <stop stop-color="#43BFDD" offset="100%"></stop>
+            <stop stop-color="#43BFDD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="6.03870769%" x2="110.291185%" y2="93.9612923%" id="linearGradient-2">
+            <stop stop-color="#405ADD" offset="0%"></stop>
+            <stop stop-color="#43BFDD" offset="100%"></stop>
+            <stop stop-color="#43BFDD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="illo-social-mail">
+            <path d="M48.0565302,80.0194932 L33.4366472,98.1150097 C30.7076023,101.448343 25.1520468,99.6354776 25.1520468,95.0350877 L25.1520468,69.785575 L79.7836257,20.5126706 C80.8557505,19.5575049 82.3762183,21.0194932 81.460039,22.1306043 L37.5672515,75.6081871 L48.0565302,80.0194932 Z" id="Path" fill-opacity="0.4" fill="url(#linearGradient-1)"></path>
+            <path d="M99.920078,5.45808967 L85.8849903,89.668616 C85.6463928,91.079145 84.7773295,92.303765 83.5246466,92.9946386 C82.2719637,93.6855122 80.7725306,93.7671539 79.4522417,93.2163743 L37.5672515,75.6081871 L81.460039,22.1306043 C82.3762183,21.0194932 80.8557505,19.5575049 79.7836257,20.5126706 L25.1461988,69.785575 L3.05847953,61.1754386 C1.40077558,60.4795271 0.288507392,58.8952386 0.197068561,57.0997125 C0.10562973,55.3041864 1.05119831,53.6151006 2.62962963,52.754386 L92.9824561,0.62962963 C96.3528265,-1.31968811 100.584795,1.52631579 99.920078,5.45808967 Z" id="Path" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>
