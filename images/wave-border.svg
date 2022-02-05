@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1855px" height="170px" viewBox="0 0 1855 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>wave-border</title>
-    <g id="wave-border" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M0,170.328837 L1855,170.328837 L1855,24.3288366 C1648.26563,-12.4045159 1339.09896,9.26215076 927.5,89.3288366 C515.901042,169.395522 206.734375,151.062189 0,34.3288366 L0,170.328837 Z" id="Rectangle" fill="#FFFFFF"></path>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1855" height="170" version="1.1" viewBox="0 0 1855 170"><title>wave-border</title><g id="wave-border" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><path id="Rectangle" fill="#FFF" d="M0,170.328837 L1855,170.328837 L1855,24.3288366 C1648.26563,-12.4045159 1339.09896,9.26215076 927.5,89.3288366 C515.901042,169.395522 206.734375,151.062189 0,34.3288366 L0,170.328837 Z"/></g></svg>
